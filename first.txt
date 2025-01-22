@@ -1,2 +1,5 @@
 this is my first file
 its an amazing file
+
+added some lines tp the bottom of the file
+life is like a sandwich, no matter which way you bite the BREAD comes first
